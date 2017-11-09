@@ -1,0 +1,36 @@
+.container{
+    margin: 10% auto;
+    width: 30%;
+    text-align: center;
+}
+#error{
+    background: red;
+    padding: 5px;
+    width: 450px;
+    border: 2px solid black;
+}
+#success{
+    background: green;
+    width: 250px;
+    padding: 5px;
+    border: 2px solid black;
+}
+form{
+    text-align: right;
+}
+input{
+    width: 500px;
+}
+
+table{
+    display: inline-block;
+    text-align: center;
+    width: 70%;
+    padding-left: 28px;
+    /* border: 1px solid grey; */
+}
+th,td{
+    border: 1px solid grey;
+    padding: 5px 10px;
+    margin-left:10px;
+}
